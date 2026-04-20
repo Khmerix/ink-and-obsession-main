@@ -1,2 +1,2 @@
-# ink-and-obsession-main
-book
+# ink-and-obsession
+An interactive horror novel
